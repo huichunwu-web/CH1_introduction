@@ -1,0 +1,6 @@
+{
+  "name": "食物製備學習測驗系統 - 餐飲常識導論",
+  "description": "餐飲工作者必備基本常識：中華飲食文化、中餐八大菜系、各國料理與飲食新趨勢學習字卡、模擬測驗、情境分析與PDF成績單匯出",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
